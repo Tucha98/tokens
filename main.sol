@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
  
-import "./ierc.sol";
+import "./ierc.sol"; // import file ierc
  
 contract ERC20 is IERC20{ // to use the functions of the IERC20 interface
  
